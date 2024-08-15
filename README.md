@@ -8,11 +8,11 @@
 
 <h3>History </h3>
 
-<p><strong>User</strong> </p>
+<h5><strong>User</strong> </h5>
 
 - 
 
-<h4>Background</h4>
+<h5>Background</h5>
 
 - 
 
@@ -21,14 +21,14 @@
 <br>
 <br>
 
-<h3>Investigation:</h3>
+<h3>Investigation</h3>
 
-<h5> Verification / Initial Assessment</h5>
+<h5> Verification / Initial Assessment / Diagnosis</h5>
 
 - 
 
 
-<h5>Problem Identified:</h5>
+<h5>Problem Identified</h5>
 
 - 
 
@@ -37,14 +37,18 @@
 
 <h3>Resolution</h3>
 
-- 
 
-
-<h5>Communication:</h5>
+<h5>Procedure</h5>
 
 - 
 
-<h5>Documentation & Closure:</h5>
+
+
+<h5>Communication</h5>
+
+- 
+
+<h5>Documentation & Closure</h5>
 
 - 
 
