@@ -1,4 +1,35 @@
-# ticket-lifecycle-and-resolution
+<h1> Ticket Lifecycle & Resolution </h1>
+
+
+<p>Welcome to </p>
+
+<h2>Prerequisites</h2>
+
+- 
+
+<h2>Key Objectives</h2>
+
+<h4>Mastering Ticket Resolution</h4>
+
+- Understand the complete lifecycle of a ticket within Jira, from the initial intake to its successful resolution.
+
+
+
+<h2>Environments and Technologies Used</h2>
+
+- Jira
+- Hyper-V (Virtual Machines)
+- Remote Desktop
+- Active Directory
+
+<h2>Operating Systems Used </h2>
+
+- Windows Server 2022
+- Windows 11 (23H2)
+
+
+<br>
+
 
 <h1>Tickets</h1>
 
