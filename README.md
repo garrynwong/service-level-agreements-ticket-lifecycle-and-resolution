@@ -31,6 +31,50 @@
 <br>
 
 
+
+<h1>Ticket Lifecycle and Resolution</h1>
+
+<h3>Step 1:  </h3>
+<p> </p>
+
+- 
+
+<br>
+
+
+<h3>Step 2: </h3>
+<p></p>
+
+- 
+
+<br>
+
+
+<h3>Step 3: </h3>
+<p></p>
+
+- 
+
+<br>
+
+
+
+<h3>Step 4: </h3>
+<p></p>
+
+- 
+
+<br>
+
+
+<h3>Step 5: </h3>
+<p></p>
+
+- 
+
+<br>
+
+
 <h1>Tickets</h1>
 
 <h3>Scenario A: </h3>
