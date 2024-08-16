@@ -75,7 +75,7 @@
 <br>
 
 
-<h1>Tickets</h1>
+<h1>Example Tickets</h1>
 
 <h3>Scenario A: </h3>
 
