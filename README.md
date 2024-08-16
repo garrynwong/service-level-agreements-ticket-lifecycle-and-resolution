@@ -37,6 +37,7 @@
 <h3>Step 1: Ticket Creation (History)</h3>
 <p> </p>
 
+- Access the service desk portal or contact the email address responsible for handling issue requests; submit a ticket with the appropriate issue details such as a summary and description
 - 
 
 <br>
