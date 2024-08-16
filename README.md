@@ -46,7 +46,7 @@
 <h3>Step 2: Classification (Investigation)</h3>
 <p></p>
 
-- Assess the details and diagnosis of the issue; categorize the ticket based on SLAs for priority and aspects of service
+- Assess the details and diagnose the issue; categorize the ticket based on SLAs for priority and aspects of service
 
 <br>
 
