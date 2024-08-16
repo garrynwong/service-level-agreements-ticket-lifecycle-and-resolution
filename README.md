@@ -63,7 +63,7 @@
 <h3>Step 4: Resolution Procedure (Resolution)</h3>
 <p></p>
 
-- 
+- collaborate on solution if cross function is needed and implement as well as the fix
 
 <br>
 
@@ -71,7 +71,7 @@
 <h3>Step 5: Communication (Resolution)</h3>
 <p></p>
 
-- 
+- verify with user issue has been resolved
 
 <br>
 
@@ -79,7 +79,7 @@
 <h3>Step 6: Documentation and Closure (Resolution)</h3>
 <p></p>
 
-- 
+- document the steps taken for resolution within the ticket and knowledge base for future reference; close ticket
 
 <br>
 
