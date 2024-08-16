@@ -75,7 +75,7 @@
 <br>
 
 
-<h3>Step 6: Resolution and Closure</h3>
+<h3>Step 6: Documentation and Closure</h3>
 <p></p>
 
 - 
