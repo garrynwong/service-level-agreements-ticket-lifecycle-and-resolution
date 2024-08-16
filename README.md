@@ -112,14 +112,14 @@
 
 - 
 
-<br>
-
-<h3>Resolution (Step 4, 5 & 6)</h3>
-
-
 <h5>Problem Identified</h5>
 
 - 
+
+
+
+<h3>Resolution (Step 4, 5 & 6)</h3>
+
 
 
 <h5>Procedure</h5>
