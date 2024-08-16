@@ -59,7 +59,7 @@
 
 
 
-<h3>Step 4: Resolution Steps</h3>
+<h3>Step 4: Resolution Procedure</h3>
 <p></p>
 
 - 
