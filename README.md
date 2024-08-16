@@ -51,7 +51,7 @@
 <br>
 
 
-<h3>Step 3: Assignment + Escalation (Investigation)</h3>
+<h3>Step 3: Assignment + Escalation (Resolution)</h3>
 <p></p>
 
 - Assign and/or escalate tickets based on issue priority, type and expertise required, as well as SLA metrics
