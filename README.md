@@ -46,7 +46,7 @@
 <h3>Step 2: Classification (History)</h3>
 <p></p>
 
-- 
+- Categorize the ticket based on SLAs for priority and aspects of service
 
 <br>
 
