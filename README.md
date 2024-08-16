@@ -43,7 +43,7 @@
 <br>
 
 
-<h3>Step 2: Classification (History)</h3>
+<h3>Step 2: Classification (Investigation)</h3>
 <p></p>
 
 - Categorize the ticket based on SLAs for priority and aspects of service
@@ -91,7 +91,7 @@
 
 <br>
 
-<h3>History (Step 1 & 2)</h3>
+<h3>History (Step 1)</h3>
 
 <h5><strong>User</strong> </h5>
 
@@ -106,7 +106,7 @@
 <br>
 <br>
 
-<h3>Investigation (Step 3)</h3>
+<h3>Investigation (Step 2 & 3)</h3>
 
 <h5> Verification / Initial Assessment / Diagnosis</h5>
 
