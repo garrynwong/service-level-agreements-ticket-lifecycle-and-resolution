@@ -34,7 +34,7 @@
 
 <h1>Ticket Lifecycle and Resolution</h1>
 
-<h3>Step 1: Ticket Creation </h3>
+<h3>Step 1: Ticket Creation (History)</h3>
 <p> </p>
 
 - 
@@ -42,7 +42,7 @@
 <br>
 
 
-<h3>Step 2: Classification </h3>
+<h3>Step 2: Classification (History)</h3>
 <p></p>
 
 - 
@@ -50,7 +50,7 @@
 <br>
 
 
-<h3>Step 3: Assignment + Escalation</h3>
+<h3>Step 3: Assignment + Escalation (Investigation)</h3>
 <p></p>
 
 - 
@@ -59,7 +59,7 @@
 
 
 
-<h3>Step 4: Resolution Procedure</h3>
+<h3>Step 4: Resolution Procedure (Resolution)</h3>
 <p></p>
 
 - 
@@ -67,7 +67,7 @@
 <br>
 
 
-<h3>Step 5: Communication</h3>
+<h3>Step 5: Communication (Resolution)</h3>
 <p></p>
 
 - 
@@ -75,7 +75,7 @@
 <br>
 
 
-<h3>Step 6: Documentation and Closure</h3>
+<h3>Step 6: Documentation and Closure (Resolution)</h3>
 <p></p>
 
 - 
