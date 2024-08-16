@@ -17,7 +17,7 @@
 
 <h2>Environments and Technologies Used</h2>
 
-- Jira
+- Jira Service Management
 - Hyper-V (Virtual Machines)
 - Remote Desktop
 - Active Directory
