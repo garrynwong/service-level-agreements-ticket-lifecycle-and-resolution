@@ -1,4 +1,4 @@
-<h1> Ticket Lifecycle & Resolution </h1>
+<h1> Service Level Agreements (SLAs), Ticket Lifecycle & Resolution </h1>
 
 
 <p>Welcome to </p>
