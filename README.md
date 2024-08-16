@@ -112,6 +112,7 @@
 
 - 
 
+<br>
 
 <h3>Resolution (Step 3, 4, 5 & 6)</h3>
 
