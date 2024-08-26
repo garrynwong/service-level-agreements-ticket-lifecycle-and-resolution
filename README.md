@@ -117,7 +117,7 @@
 <br>
 <br>
 
-<h3>Investigation & Resolution (Step 4, 5 & 6)</h3>
+<h3>Resolution (Step 4, 5 & 6)</h3>
 
 
 
