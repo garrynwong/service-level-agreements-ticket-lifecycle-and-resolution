@@ -62,7 +62,7 @@
 <h3>Step 4: Solution Procedure ( Resolution)</h3>
 <p></p>
 
-- identify, collaborate on solution if cross function is needed as well as implement the fix
+- identify, collaborate on fix if cross function is needed as well as implement the fix
 
 <br>
 
