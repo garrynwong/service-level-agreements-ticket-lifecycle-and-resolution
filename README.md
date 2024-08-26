@@ -93,11 +93,7 @@
 
 <h3>History (Step 1)</h3>
 
-<h5><strong>User</strong> </h5>
-
-- 
-
-<h5>Background</h5>
+<h5><strong>User & Background</strong> </h5>
 
 - 
 
