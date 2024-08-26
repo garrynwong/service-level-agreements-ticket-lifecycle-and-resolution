@@ -63,7 +63,7 @@
 <h3>Step 4: Resolution Procedure ( Resolution)</h3>
 <p></p>
 
-- diagnose, investigate, identify, collaborate on solution if cross function is needed as well as implement and document as well as the fix
+- identify, collaborate on solution if cross function is needed as well as implement and document as well as the fix
 
 <br>
 
