@@ -103,7 +103,7 @@
 
 <h3>Investigation (Step 2 & 3)</h3>
 
-<h5> Verification / Initial Assessment / Diagnosis / Problem Identified / Categorize (SLA metrics)</h5>
+<h5> Initial Assessment / Diagnosis / Verification / Problem Identified / Categorize (SLA metrics)</h5>
 
 
 - 
