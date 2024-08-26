@@ -38,7 +38,6 @@
 <p> </p>
 
 - Access the service desk portal or contact the email address responsible for handling issue requests; submit a ticket with the appropriate issue details such as a summary and description
-- 
 
 <br>
 
@@ -60,7 +59,7 @@
 
 
 
-<h3>Step 4: Resolution Procedure ( Resolution)</h3>
+<h3>Step 4: Solution Procedure ( Resolution)</h3>
 <p></p>
 
 - identify, collaborate on solution if cross function is needed as well as implement the fix
