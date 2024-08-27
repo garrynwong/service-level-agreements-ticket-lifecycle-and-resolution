@@ -93,7 +93,11 @@
 
 - ask questions about the context of the issue
 
-<br>
+
+![1](https://github.com/user-attachments/assets/ba7da99b-5e90-4a0d-8702-a4c5ec866c0e)
+
+____
+
 
 - when: this morning
 - who: marketing department
@@ -119,11 +123,6 @@ SLA Metrics
 Urgency = Medium
 
 Impact = Moderate/Limited
-
-
-
-
-![1](https://github.com/user-attachments/assets/ba7da99b-5e90-4a0d-8702-a4c5ec866c0e)
 
 
 ____
