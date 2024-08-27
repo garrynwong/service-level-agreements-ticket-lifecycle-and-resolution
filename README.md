@@ -128,6 +128,10 @@ ____
 
 <br>
 
+
+assess the issue from the description and diagnosis the root cause of the problem
+
+
 ![2](https://github.com/user-attachments/assets/fa9ae44e-f999-4768-920a-376d06e9d376)
 
 
@@ -138,10 +142,11 @@ ____
 <h5> Assign & Escalate (SLA metrics)</h5>
 
 
-- 
+- based on SLA metrics of time and priority, assign or escalate
 
-<br>
-<br>
+
+____
+
 
 <h3>Resolution (Step 4, 5 & 6)</h3>
 
@@ -150,7 +155,7 @@ ____
 <h5>Procedure</h5>
 
 
-![3](https://github.com/user-attachments/assets/9cde03bf-af68-4d95-a987-2f4537b13895)
+
 
 
 ____
@@ -160,12 +165,23 @@ ____
 
 - 
 
+
+
 <h5>Implement</h5>
 
-- 
+- reply to the customer in the comments about the fix being implemented
 
+
+
+![3](https://github.com/user-attachments/assets/9cde03bf-af68-4d95-a987-2f4537b13895)
+
+
+_____
 
 <h5>Verify</h5>
+
+
+- verify solution with customer and update the status of the ticket accordingly
 
 ![4](https://github.com/user-attachments/assets/a21b37c8-0c4a-43be-9f39-26cdb9cbd0e1)
 
@@ -173,6 +189,9 @@ ____
 ___
 
 <h5>Documentation & Closure</h5>
+
+
+- review and document process of resolved tickets in the ticket history or knowledge base for future reference
 
 
 ![5](https://github.com/user-attachments/assets/17ede0ef-b357-4ff9-88ab-156590cf671e)
