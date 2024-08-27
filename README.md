@@ -106,6 +106,8 @@ Summary of Problem
 
 Description of Problem
 
+<br>
+<br>
 
 SLA Metrics
 
@@ -158,12 +160,13 @@ ____
 
 
 
-____
-
-
 <h5>Colloborate</h5>
 
-- 
+- use internal note section within the ticket to colloborate if needed for solution implementation
+
+
+![2A](https://github.com/user-attachments/assets/275e4aea-5ff8-49b0-9bf7-877d14ca724b)
+
 
 
 
