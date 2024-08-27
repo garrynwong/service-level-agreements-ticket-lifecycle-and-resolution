@@ -91,6 +91,10 @@
 
 <h5><strong>User & Background</strong> </h5>
 
+- ask questions about the context of the issue
+
+<br>
+
 - when: this morning
 - who: marketing department
 - what: intermittent network connectivity issues every 15 minutes; affecting internet access and internal resource access
@@ -131,7 +135,7 @@ ____
 <br>
 
 
-assess the issue from the description and diagnosis the root cause of the problem
+- assess the issue from the description and diagnosis the root cause of the problem
 
 
 ![2](https://github.com/user-attachments/assets/fa9ae44e-f999-4768-920a-376d06e9d376)
