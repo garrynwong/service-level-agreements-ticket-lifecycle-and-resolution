@@ -93,10 +93,7 @@
 
 - ask questions about the context of the issue
 
-
-____
-
-
+<br>
 
 - when: this morning
 - who: marketing department
