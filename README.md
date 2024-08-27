@@ -99,14 +99,22 @@
 - fix attempts: reconnect to wifi, switch to wired; no improvement
 
 Issue Type = Incident
+
 Raise request of behalf of = customer or the assignee of the ticket
+
 Summary of Problem
+
 Description of Problem
+
 
 SLA Metrics
 
+
 Urgency = Medium
+
 Impact = Moderate/Limited
+
+
 
 
 ![1](https://github.com/user-attachments/assets/ba7da99b-5e90-4a0d-8702-a4c5ec866c0e)
