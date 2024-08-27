@@ -125,7 +125,6 @@ Urgency = Medium
 Impact = Moderate/Limited
 
 
-____
 
 <h3>Investigation (Step 2 & 3)</h3>
 
