@@ -81,7 +81,7 @@
 
 
 
-<h1>Example Tickets</h1>
+<h1>Example Ticket</h1>
 
 <h3>Scenario A: Network Issue</h3>
 
