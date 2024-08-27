@@ -58,7 +58,7 @@
 
 - Assign and/or escalate tickets based on issue priority, type and expertise required, as well as SLA metrics
 
-<br>
+
 
 
 
@@ -76,7 +76,7 @@
 
 - verify with user issue has been resolved
 
-<br>
+
 
 
 <h3>Step 6: Documentation and Closure (Resolution)</h3>
@@ -113,6 +113,8 @@ ____
 <h3>Investigation (Step 2 & 3)</h3>
 
 <h5> Initial Assessment / Diagnosis / Verification / Problem Identified / Categorize (SLA metrics)</h5>
+
+<br>
 
 ![2](https://github.com/user-attachments/assets/fa9ae44e-f999-4768-920a-376d06e9d376)
 
