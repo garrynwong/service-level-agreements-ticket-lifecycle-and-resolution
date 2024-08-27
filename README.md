@@ -156,6 +156,8 @@ ____
 
 <h5>Procedure</h5>
 
+- detail the procedural steps of the solution
+
 
 
 
