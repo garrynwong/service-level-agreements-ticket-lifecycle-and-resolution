@@ -1,12 +1,5 @@
 <h1> Service Level Agreements (SLAs), Ticket Lifecycle & Resolution </h1>
 
-
-<p>Welcome to </p>
-
-<h2>Prerequisites</h2>
-
-- 
-
 <h2>Key Objectives</h2>
 
 <h4>Mastering Ticket Resolution</h4>
