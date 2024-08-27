@@ -39,7 +39,12 @@
 
 - Access the service desk portal or contact the email address responsible for handling issue requests; submit a ticket with the appropriate issue details such as a summary and description
 
-<br>
+
+
+
+
+
+____
 
 
 <h3>Step 2: Classification (Investigation)</h3>
@@ -47,7 +52,11 @@
 
 - Assess the details and diagnose the issue; categorize the ticket based on SLAs for priority and aspects of service
 
-<br>
+
+
+
+
+____
 
 
 <h3>Step 3: Assignment + Escalation (Investigation)</h3>
@@ -64,7 +73,10 @@
 
 - identify, collaborate on fix if cross function is needed as well as implement the fix
 
-<br>
+
+
+
+____
 
 
 <h3>Step 5: Communication (Resolution)</h3>
@@ -80,13 +92,16 @@
 
 - document the steps taken for resolution within the post incident ticket review and knowledge base for future reference; close ticket
 
-<br>
+
+
+
+____
 
 
 
 <h1>Example Tickets</h1>
 
-<h3>Scenario A: </h3>
+<h3>Scenario A: Network Issue</h3>
 
 <br>
 
@@ -94,19 +109,28 @@
 
 <h5><strong>User & Background</strong> </h5>
 
-- 
+- when: this morning
+- who: marketing department
+- what: intermittent network connectivity issues every 15 minutes; affecting internet access and internal resource access
+- how: disruptions in department's workflow
+
+- fix attempts: reconnect to wifi, switch to wired; no improvement
+
+![1](https://github.com/user-attachments/assets/ba7da99b-5e90-4a0d-8702-a4c5ec866c0e)
 
 
-
-<br>
-<br>
+____
 
 <h3>Investigation (Step 2 & 3)</h3>
 
 <h5> Initial Assessment / Diagnosis / Verification / Problem Identified / Categorize (SLA metrics)</h5>
 
+![2](https://github.com/user-attachments/assets/fa9ae44e-f999-4768-920a-376d06e9d376)
 
-- 
+
+____
+
+
 
 <h5> Assign & Escalate (SLA metrics)</h5>
 
@@ -122,8 +146,11 @@
 
 <h5>Procedure</h5>
 
-- 
 
+![3](https://github.com/user-attachments/assets/9cde03bf-af68-4d95-a987-2f4537b13895)
+
+
+____
 
 
 <h5>Colloborate</h5>
@@ -137,10 +164,17 @@
 
 <h5>Verify</h5>
 
-- 
+![4](https://github.com/user-attachments/assets/a21b37c8-0c4a-43be-9f39-26cdb9cbd0e1)
+
+
+___
 
 <h5>Documentation & Closure</h5>
 
-- 
+
+![5](https://github.com/user-attachments/assets/17ede0ef-b357-4ff9-88ab-156590cf671e)
+
+
+____
 
 
