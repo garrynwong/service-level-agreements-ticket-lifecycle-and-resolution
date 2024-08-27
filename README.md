@@ -106,13 +106,13 @@ ____
 
 - fix attempts: reconnect to wifi, switch to wired; no improvement
 
-Issue Type = Incident
+- Issue Type = Incident
 
-Raise request of behalf of = customer or the assignee of the ticket
+- Raise request of behalf of = customer or the assignee of the ticket
 
-Summary of Problem
+- Summary of Problem
 
-Description of Problem
+- Description of Problem
 
 <br>
 <br>
