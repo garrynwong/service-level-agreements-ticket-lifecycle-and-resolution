@@ -44,9 +44,6 @@
 
 
 
-____
-
-
 <h3>Step 2: Classification (Investigation)</h3>
 <p></p>
 
@@ -54,9 +51,6 @@ ____
 
 
 
-
-
-____
 
 
 <h3>Step 3: Assignment + Escalation (Investigation)</h3>
@@ -76,8 +70,6 @@ ____
 
 
 
-____
-
 
 <h3>Step 5: Communication (Resolution)</h3>
 <p></p>
@@ -93,9 +85,6 @@ ____
 - document the steps taken for resolution within the post incident ticket review and knowledge base for future reference; close ticket
 
 
-
-
-____
 
 
 
