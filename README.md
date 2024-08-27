@@ -134,7 +134,7 @@ ____
 <br>
 
 
-- assess the issue from the description and diagnosis the root cause of the problem
+- assess the issue from the description and diagnose the root cause of the problem
 
 
 ![2](https://github.com/user-attachments/assets/fa9ae44e-f999-4768-920a-376d06e9d376)
