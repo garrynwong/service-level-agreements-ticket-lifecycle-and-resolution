@@ -136,8 +136,6 @@ Impact = Moderate/Limited
 
 - assess the issue from the description and diagnose the root cause of the problem
 
-____
-
 
 
 <h5> Assign & Escalate (SLA metrics)</h5>
